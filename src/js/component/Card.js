@@ -2,8 +2,8 @@ import React from "react";
 
 const Card = () => {
 	return (
-		<div class="card">
-			<img src="http://wikipedia.com" class="card-img-top" alt="..." />
+		<div class="card col">
+			<img src="..." class="card-img-top" alt="..." />
 			<div class="card-body">
 				<h5 class="card-title">Card title</h5>
 				<p class="card-text">
@@ -11,7 +11,7 @@ const Card = () => {
 					up the bulk of the card's content.
 				</p>
 				<a href="#" class="btn btn-primary">
-					Go somewhere
+					Find out move!
 				</a>
 			</div>
 		</div>
